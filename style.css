@@ -1,0 +1,20 @@
+*{
+    font-family: system-ui;
+    color: black;
+    font-size: 25px;
+text-shadow: 20px;
+}
+
+a{
+    color:grey
+}
+a:hover{color: mediumblue;}
+a:after{color:black}
+.top{
+    position:sticky top
+}
+.top{ background-color: aliceblue;
+  border-style: solid;
+  position: sticky;
+  top: 0px; 
+}
